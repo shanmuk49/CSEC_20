@@ -1,0 +1,9 @@
+Lucky_Number=int(input('Enter your Lucky Number :'))
+if Lucky_Number < 20 :
+    print('Lucky_Number<20')
+    print('Great')
+
+'''Expected Output:
+Enter your Lucky Number :5
+Lucky_Number<20
+Great'''
