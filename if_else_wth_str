@@ -1,0 +1,9 @@
+section=input("Enter Your Section")
+if section == 'CSE_A' or 'CSE_B' or 'CSE_C' :
+    print("Valid Student")
+else :
+    print("Invalid Student")
+
+'''Expected Output :
+Enter Your SectionCSE_A
+Valid Student'''
