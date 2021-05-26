@@ -1,0 +1,13 @@
+num = int(input("Enter Your Number : "))
+if num%2 == 0 :
+    print("Given Nymber Is Divisible By 2")
+elif num%3 == 0:
+    print("Given Number Is Divisible bY 3")
+elif num%5 == 0:
+     print("Given Number Is Divisible bY 5")
+else :
+     print("Given Number Is Divisible Not bY 2 or 3 or 5")
+
+'''Expected Output :
+Enter Your Number : 45
+Given Number Is Divisible bY 3'''
