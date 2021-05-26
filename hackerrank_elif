@@ -1,0 +1,14 @@
+
+n = int(input("Enter n Value : "))
+if n%2!=0:
+    print('Weird')
+elif 2<=n<=5:
+    print('Not Weird')    
+elif 6<=n<=20:
+    print('Weird')
+else :
+    print('Not Weird')
+
+'''Expected Output :
+Enter n Value : 500
+Not weird''' 
