@@ -1,0 +1,14 @@
+i=int(input("enter i value"))
+n=int(input("enter n value"))
+while i<=n:
+    print(i)
+    i+=2
+
+'''Expected Output : 
+enter i value2
+enter n value10
+2
+4
+6
+8
+10 '''
