@@ -1,0 +1,7 @@
+w=int(input("Enter Weight="))#w is for taking weight
+p=(2.205*w)
+print ("Weight in Pounds=",p)#To print claculated value
+
+'''EXPECTED OUTPUT:
+Enter Weight=65
+Weight in Pounds=143.325'''
