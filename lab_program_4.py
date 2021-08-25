@@ -11,9 +11,9 @@ if flag == 1:
 else:
     print(f'{word} contains no vowels')
 
-Enter A Word : Aditya
-Aditya contains vowels
 
+'''
+Expected  Output :
 Enter A Word : Aditya
 Aditya contains vowels
 '''
@@ -43,10 +43,7 @@ Mastan sunila Msausntialna
 
 # 4.3 program
 
-number = int(input("Enter A Number : "))
-print(f'{number:,}')
 
-'''Expected Output : 
 
 
 # 4.4 program
